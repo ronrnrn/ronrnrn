@@ -1,9 +1,30 @@
+
+
+
+
+
 - 👋 Hi, I’m @衰衰.
-- 👀 ...
-- 🌱 ...
-- 💞️ ...
+- 👀 만나서 반갑습니다...
+- 🌱 in Nanjing...
+- 🎉 L'essentiel est invisible pour les yeux....
 
 <!---
-ronrnrn/ronrnrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is my ✨WeChat✨.
 --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
